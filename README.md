@@ -23,4 +23,14 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisnotahuman&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 -->
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisnotahuman&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=thisisnotahuman&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=thisisnotahuman&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thisisnotahuman&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
