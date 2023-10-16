@@ -6,7 +6,7 @@
 
 <div align="center"> 
 
-🧰 常用的工具
+🧰 Tools
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Alienware Badge](https://img.shields.io/badge/Alienware-E2231A?logo=Alienware&logoColor=fff&style=flat)
