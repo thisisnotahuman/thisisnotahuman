@@ -18,8 +18,8 @@ Graph Neural Networks <br />
 
 *"[Fully Spiking Neural Network for Legged Robots](https://arxiv.org/abs/2310.05022)"* <br />
 *"[Saliency-Guided Hidden Associative Replay for Continual Learning](https://arxiv.org/abs/2310.04334)"* <br />
-*"[•Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized 
-Imitation Learning](https://arxiv.org/abs/2309.11359)"* 
+*"[Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized 
+Imitation Learning](https://arxiv.org/abs/2309.11359)"* <br />
 
 🧰 Tools
 
