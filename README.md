@@ -13,7 +13,6 @@ MultiModal Large Language Models <br />
 Reinforcement Learning <br />
 Spiking Neural Networks <br />
 Generative Models <br />
-Graph Neural Networks <br />
 
 📜 Publications
 
