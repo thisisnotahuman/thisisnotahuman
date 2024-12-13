@@ -8,9 +8,10 @@
   
 💪 Learning
 
+Continual Learning <br />
+MultiModal Large Language Models <br />
 Reinforcement Learning <br />
 Spiking Neural Networks <br />
-Incremental Learning <br />
 Generative Models <br />
 Graph Neural Networks <br />
 
