@@ -9,6 +9,7 @@
 💪 Learning
 
 Continual Learning <br />
+Contrastive Learning <br />
 MultiModal Large Language Models <br />
 Reinforcement Learning <br />
 Spiking Neural Networks <br />
