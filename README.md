@@ -35,6 +35,8 @@ Imitation Learning](https://arxiv.org/abs/2309.11359)"* <br />
 ![Unity Badge](https://img.shields.io/badge/Unity-A23BCC?logo=Unity&logoColor=fff&style=flat)
 ![Overleaf Badge](https://img.shields.io/badge/Overleaf-E0271B?logo=Overleaf&logoColor=fff&style=flat)
 ![Notion Badge](https://img.shields.io/badge/Notion-C1303B?logo=Notion&logoColor=fff&style=flat)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&logoColor=fff&style=flat)
+![Huggingface](https://img.shields.io/badge/Huggingface-FFD21E?logo=Huggingface&logoColor=fff&style=flat)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisnotahuman&layout=donut&theme=radical&hide_border=true)](https://github.com/thisisnotahuman/thisisnotahuman)
 
